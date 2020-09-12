@@ -6,6 +6,7 @@ def unsafe?(speed)
   true
   end
   elsif speed 
+  false
 end
 
 
